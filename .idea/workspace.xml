@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f27e38d-dd12-4837-bf77-d3d8676474c9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Users\nik\Desktop\Tastease\pass.jks" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="ProjectId" id="1mhRs4yMDxNGvWB4AuTTQ9XZeZS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AndroidRunProguardForReleaseBuild" value="false" />
+    <property name="ApkExportedModule" value="Tastease" />
+    <property name="ExportedApkPath" value="C:\Users\nik\Desktop\Tastease\Tastease.apk" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f27e38d-dd12-4837-bf77-d3d8676474c9" name="Default Changelist" comment="" />
+      <created>1609944039612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609944039612</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="79" y="178" key="#Project_Structure" timestamp="1609944826494">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="79" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1609944826494" />
+    <state x="267" y="261" key="FileChooserDialogImpl" timestamp="1609947637613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="267" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1609947637613" />
+    <state x="183" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1609947607802">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="183" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609947607802" />
+    <state x="143" y="242" key="run.anything.popup" timestamp="1609944067907">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="143" y="242" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1609944067907" />
+  </component>
+</project>
